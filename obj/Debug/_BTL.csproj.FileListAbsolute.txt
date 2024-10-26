@@ -1,0 +1,10 @@
+D:\Stu\vs\_BTL\obj\Debug\_BTL.csproj.AssemblyReference.cache
+D:\Stu\vs\_BTL\obj\Debug\_BTL.Form1.resources
+D:\Stu\vs\_BTL\obj\Debug\_BTL.Properties.Resources.resources
+D:\Stu\vs\_BTL\obj\Debug\_BTL.csproj.GenerateResource.cache
+D:\Stu\vs\_BTL\obj\Debug\_BTL.csproj.CoreCompileInputs.cache
+D:\Stu\vs\_BTL\bin\Debug\_BTL.exe.config
+D:\Stu\vs\_BTL\bin\Debug\_BTL.exe
+D:\Stu\vs\_BTL\bin\Debug\_BTL.pdb
+D:\Stu\vs\_BTL\obj\Debug\_BTL.exe
+D:\Stu\vs\_BTL\obj\Debug\_BTL.pdb
